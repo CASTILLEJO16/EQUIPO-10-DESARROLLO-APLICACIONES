@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pokeapi/static/css/main.f4f2d8af.css",
-    "main.js": "/pokeapi/static/js/main.bcad99c3.js",
-    "static/js/453.c3403f1a.chunk.js": "/pokeapi/static/js/453.c3403f1a.chunk.js",
-    "index.html": "/pokeapi/index.html",
-    "main.f4f2d8af.css.map": "/pokeapi/static/css/main.f4f2d8af.css.map",
-    "main.bcad99c3.js.map": "/pokeapi/static/js/main.bcad99c3.js.map",
-    "453.c3403f1a.chunk.js.map": "/pokeapi/static/js/453.c3403f1a.chunk.js.map"
+    "main.css": "/EQUIPO-10-DESARROLLO-APLICACIONES/static/css/main.f4f2d8af.css",
+    "main.js": "/EQUIPO-10-DESARROLLO-APLICACIONES/static/js/main.45974b03.js",
+    "static/js/453.c3403f1a.chunk.js": "/EQUIPO-10-DESARROLLO-APLICACIONES/static/js/453.c3403f1a.chunk.js",
+    "index.html": "/EQUIPO-10-DESARROLLO-APLICACIONES/index.html",
+    "main.f4f2d8af.css.map": "/EQUIPO-10-DESARROLLO-APLICACIONES/static/css/main.f4f2d8af.css.map",
+    "main.45974b03.js.map": "/EQUIPO-10-DESARROLLO-APLICACIONES/static/js/main.45974b03.js.map",
+    "453.c3403f1a.chunk.js.map": "/EQUIPO-10-DESARROLLO-APLICACIONES/static/js/453.c3403f1a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f4f2d8af.css",
-    "static/js/main.bcad99c3.js"
+    "static/js/main.45974b03.js"
   ]
 }
