@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CASTILLEJO16/pokeapi/static/css/main.f4f2d8af.css",
+    "main.js": "/CASTILLEJO16/pokeapi/static/js/main.e37656e3.js",
+    "static/js/453.c3403f1a.chunk.js": "/CASTILLEJO16/pokeapi/static/js/453.c3403f1a.chunk.js",
+    "index.html": "/CASTILLEJO16/pokeapi/index.html",
+    "main.f4f2d8af.css.map": "/CASTILLEJO16/pokeapi/static/css/main.f4f2d8af.css.map",
+    "main.e37656e3.js.map": "/CASTILLEJO16/pokeapi/static/js/main.e37656e3.js.map",
+    "453.c3403f1a.chunk.js.map": "/CASTILLEJO16/pokeapi/static/js/453.c3403f1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4f2d8af.css",
+    "static/js/main.e37656e3.js"
+  ]
+}
